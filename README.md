@@ -6,15 +6,15 @@
 
 ## Sobre o Projeto
 
-O **USG ISHIMURA** é um sistema de monitoramento desenvolvido em Python para controle operacional da missão espacial experimental **USG Ishimura**. A cada execução, o sistema simula e analisa em tempo real os dados dos módulos energéticos da nave — painéis solares fotovoltaicos, baterias e comunicação —, gerando alertas automáticos e ações automatizadas diante de situações críticas.
+O **Mission Control** é um sistema de monitoramento desenvolvido em Python para controle operacional da missão espacial experimental **USG Ishimura**. A cada execução, o sistema simula e analisa em tempo real os dados dos módulos energéticos da nave — painéis solares fotovoltaicos, baterias e comunicação —, gerando alertas automáticos e ações automatizadas diante de situações críticas.
 
-A solução aplica conceitos de **energia renovável solar**, **eficiência energética**, **sustentabilidade** e **automação** no contexto da exploração espacial moderna.
+A solução aplica conceitos de **energia renovável solar**, **eficiência energética**, **sustentabilidade** e **automação** no contexto da exploração espacial contemporânea.
 
 ---
 
 ## Como Executar
 
-Pré-requisito: Python 3.10 ou superior. Sem dependências externas.
+Pré-requisito: Python 3.10 ou superior.
 
 Cada execução gera dados diferentes — os valores dos são simulados aleatoriamente a cada vez.
 
