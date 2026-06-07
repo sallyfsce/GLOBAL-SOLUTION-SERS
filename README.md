@@ -24,16 +24,6 @@ Cada execução gera dados diferentes — os valores dos são simulados aleatori
 
 ---
 
-## Estrutura do Projeto
-
-```
-solar-sentinel/
-├── README.md
-└── monitor_simples.py
-```
-
----
-
 ## Módulos Monitorados
 
 | Módulo | ID | O que mede |
