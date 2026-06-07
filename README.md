@@ -1,4 +1,4 @@
-# 🛸 USG ISHIMURA — Sistema de Monitoramento de Missão Espacial
+# USG ISHIMURA — Sistema de Monitoramento de Missão Espacial
 
 > **Global Solution | FIAP — Ciência da Computação | Soluções em Energias Renováveis e Sustentáveis**
 
@@ -20,7 +20,7 @@ Pré-requisito: Python 3.10 ou superior. Sem dependências externas.
 python monitor_simples.py
 ```
 
-Cada execução gera dados diferentes — os valores dos módulos são simulados aleatoriamente a cada vez.
+Cada execução gera dados diferentes — os valores dos são simulados aleatoriamente a cada vez.
 
 ---
 
