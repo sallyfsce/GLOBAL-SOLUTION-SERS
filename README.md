@@ -1,4 +1,4 @@
-# USG ISHIMURA — Sistema de Monitoramento de Missão Espacial
+# Sistema de Monitoramento de Missão Espacial
 
 > **Global Solution | FIAP — Ciência da Computação | Soluções em Energias Renováveis e Sustentáveis**
 
