@@ -16,10 +16,6 @@ A solução aplica conceitos de **energia renovável solar**, **eficiência ener
 
 Pré-requisito: Python 3.10 ou superior. Sem dependências externas.
 
-```bash
-python monitor_simples.py
-```
-
 Cada execução gera dados diferentes — os valores dos são simulados aleatoriamente a cada vez.
 
 ---
