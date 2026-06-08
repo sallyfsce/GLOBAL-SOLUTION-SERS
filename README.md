@@ -175,4 +175,4 @@ SAUDE GERAL DA MISSAO
 
 ## Vídeo
 
-[▶ Assistir no YouTube](https://youtube.com/SEU_LINK_AQUI)
+[ Assistir no YouTube](https://youtu.be/VhaUEcnQn_Q)
